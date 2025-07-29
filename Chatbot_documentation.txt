@@ -1,0 +1,20 @@
+# Financial Chatbot Prototype
+
+## Description
+This is a simple rule-based chatbot built using Python. It simulates an AI assistant that responds to basic financial queries using predefined answers based on Microsoft's FY2024 10-K report.
+
+## Supported Questions
+- What is the total revenue?
+- How has net income changed over the last year?
+- What is the cash flow from operating activities?
+- What are the total liabilities?
+
+## How It Works
+- The chatbot runs in your terminal.
+- It uses `if-else` logic to return answers based on predefined financial data.
+- Run the script and interact with the chatbot through the command line.
+
+## Limitations
+- Only supports exact, predefined questions.
+- Does not interpret variations in phrasing.
+- Does not connect to live financial data or APIs.
